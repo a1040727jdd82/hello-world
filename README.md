@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
-My name is Daisuke Tsunoda.
+My name is DD-8.
